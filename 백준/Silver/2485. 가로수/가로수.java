@@ -16,9 +16,9 @@ public class Main {
             arr2[i] = arr[i+1] - arr[i];
         }
 
-        int gcd = 0;
-        for (int i = 0; i < arr2.length; i++) {
-            gcd = gcd(arr2[i], gcd);
+        int gcd = arr2[0];
+        for (int i = 0; i < arr2.length-1; i++) {
+            gcd = gcd(arr2[i+1], gcd);
         }
 
         int sum = 0;
