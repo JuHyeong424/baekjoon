@@ -16,7 +16,7 @@ public class Main {
             int n = Integer.parseInt(input);
             boolean b = false;
 
-            for (int i = 3; i <= n + 1; i++) {
+            for (int i = 3; i <= n; i++) {
                 if (!prime[i]) {
                     int m = n - i;
 
