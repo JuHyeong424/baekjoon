@@ -1,29 +1,36 @@
-import java.util.Scanner;
- 
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
+
 public class Main {
-	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
-		
-		int N = sc.nextInt();
-		int[] arr = new int[N];
-		for(int i=0;i<N;i++) {
-			arr[i]=sc.nextInt();
-		}
-		int count=0;
-		int result=0;
-		int j=0;
-		
-		for(int i=0;i<N;i++) {
-			for(int k=1;k<=arr[i];k++) {
-				if(arr[i]%k==0) {
-					count++;
-					}
-				}
-			if(count==2) {
-				result++;
-			}
-			count=0;
-		}
-		System.out.println(result);
-	}
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int n = Integer.parseInt(br.readLine());
+        StringTokenizer st = new StringTokenizer(br.readLine());
+        int result = 0;
+
+        for (int i = 0; i < n; i++) {
+            int number = Integer.parseInt(st.nextToken());
+
+            if (isPrime(number)) {
+                result++;
+            }
+        }
+
+        System.out.println(result);
+    }
+
+    // 소수찾기
+    private static boolean isPrime(int num) {
+        if (num <= 1) {
+            return false;
+        }
+        for (int i = 2; i <= Math.sqrt(num); i++) {
+            if (num % i == 0) {
+                return false;
+            }
+        }
+        return true;
+    }
 }
