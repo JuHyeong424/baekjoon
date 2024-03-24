@@ -11,9 +11,9 @@ public class Main {
         prime = new boolean[max+1];
         get_prime();
 
-        String input = " ";
-        while (!(input = br.readLine()).equals("0")) {
-            int n = Integer.parseInt(input);
+        int n;
+        while ((n = Integer.parseInt(br.readLine())) != 0) {
+            n = n;
             boolean b = false;
 
             for (int i = 3; i <= n; i++) {
