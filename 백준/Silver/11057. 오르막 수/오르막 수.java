@@ -15,12 +15,12 @@ public class Main {
         }
 
         for (int i = 1; i <= n; i++) {
-            dp[i][9] = 1;
+            dp[i][0] = 1;
         }
 
         for (int i = 2; i <= n; i++) {
-            for (int j = 8; j >= 0; j--) {
-                dp[i][j] = (dp[i][j + 1] + dp[i - 1][j]) % m;
+            for (int j = 1; j < 10; j++) {
+                dp[i][j] = (dp[i][j - 1] + dp[i - 1][j]) % m;
             }
         }
 
