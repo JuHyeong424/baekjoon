@@ -15,16 +15,8 @@ rl.on('line', (line) => {
 })
 
 function strangeMultiple(input) {
-    const arr1 = input[0].split('').map(Number);
-    const arr2 = input[1].split('').map(Number);
+    const sum1 = [...input[0]].reduce((a, c) => a + Number(c), 0);
+    const sum2 = [...input[1]].reduce((a, c) => a + Number(c), 0);
 
-    let sum = 0;
-
-    for (let i = 0; i < arr1.length; i++) {
-        for (let j = 0; j < arr2.length; j++) {
-            sum += arr1[i] * arr2[j];
-        }
-    }
-
-    return sum;
+    return sum1 * sum2;
 }
