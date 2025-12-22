@@ -29,23 +29,17 @@ rl.on('line', (line) => {
 function findPlayer(input) {
     const count = new Array(26).fill(0);
 
-    input.forEach((value) => {
-        count[value.charCodeAt(0) - 97]++;
-    });
+    for (let c of input) {
+        count[c.charCodeAt(0) - 97]++
+    };
 
-    const max = Math.max(...count);
-
-    if (max < 5) return 'PREDAJA';
-
-    const maxIndexes = count
-        .map((value, index) => value > 4 ? index : -1)
-        .filter((value) => value !== -1);
-    
     let result = '';
-
-    for (let i of maxIndexes) {
-        result += String.fromCharCode(i + 97);
-    }
    
-    return result;
+    for (let i = 0; i < count.length; i++) {
+        if (count[i] > 4) {
+            result += String.fromCharCode(i + 97);
+        }
+    }
+
+    return result || 'PREDAJA';
 }
