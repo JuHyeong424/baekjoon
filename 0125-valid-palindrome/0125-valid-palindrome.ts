@@ -1,12 +1,13 @@
 function isPalindrome(s: string): boolean {
-    const regexString = s.replace(/[^a-zA-Z0-9]/g, '').toLowerCase();
-    let i = 0;
-    let j = regexString.length - 1;
-
+    const newStr = s.toLowerCase().replace(/[^a-z0-9]/g,'');
+    let i=0;
+    let j = newStr.length - 1;
     while(i < j) {
-        if (regexString[i] !== regexString[j]) return false;
-        i++;
-        j--;
+        if(newStr[i] !== newStr[j] ) return false;
+        else {
+            i++;
+            j--;
+        }
     }
     return true;
 };
