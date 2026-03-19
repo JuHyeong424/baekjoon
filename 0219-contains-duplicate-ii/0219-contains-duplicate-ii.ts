@@ -1,17 +1,22 @@
 function containsNearbyDuplicate(nums: number[], k: number): boolean {
-    const newSet = new Set(nums);
+    const set = new Set<number>();
 
-    // 중복이 없다면 false
-    if (newSet.size === nums.length) return false;
+    let left = 0;
 
-    let arr = [];
+    for (let right = 0; right < nums.length; right++) {
+        // 윈도우 크기 유지
+        if (right - left > k) {
+            set.delete(nums[left]);
+            left++;
+        }
 
-    for (let i = 0; i < nums.length; i++) {
-        const arr = nums.slice(i, k+1);
-        const set = new Set(arr);
-        if (arr.length !== set.size) return true;
-        k++;
+        // 중복 체크
+        if (set.has(nums[right])) {
+            return true;
+        }
+
+        set.add(nums[right]);
     }
 
     return false;
-};
+}
