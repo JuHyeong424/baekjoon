@@ -12,7 +12,6 @@ function hasGroupsSizeX(deck: number[]): boolean {
     }
 
     const newArray = [...newMap.values()];
-    console.log(newArray)
 
     const evenArray = newArray.filter(value => value % 2 === 0);
     if (newArray.length === evenArray.length) return true;
@@ -25,8 +24,6 @@ function hasGroupsSizeX(deck: number[]): boolean {
         if (min % i === 0) minArray.push(i);
     }
 
-    console.log(minArray);
-
     for (let i = 0 ; i < minArray.length; i++) {
         let isValid = true;
         for (let j = 0; j < newArray.length; j++) {
@@ -38,12 +35,12 @@ function hasGroupsSizeX(deck: number[]): boolean {
         if (isValid) return true;
     }
 
-    for (let i = 0; i < newArray.length; i++) {
-        for (let j = 0; j < minArray.length; j++) {
-            if (newArray[i] % minArray[j] !== 0) return false;
-        }
-        if (newArray[i] % min !== 0) return false;
-    }
+     for (let i = 0; i < newArray.length; i++) {
+    //     for (let j = 0; j < minArray.length; j++) {
+    //         if (newArray[i] % minArray[j] !== 0) return false;
+    //     }
+         if (newArray[i] % min !== 0) return false;
+     }
 
     return true;
 };
