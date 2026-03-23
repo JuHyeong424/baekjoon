@@ -4,10 +4,9 @@
 function reverseString(s: string[]): void {
     let left = 0;
     let right = s.length - 1;
-    let empty = "";
 
     while (left < right) {
-        empty = s[right];
+        const empty = s[right];
         s[right] = s[left];
         s[left] = empty;
 
