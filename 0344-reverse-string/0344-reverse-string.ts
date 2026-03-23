@@ -13,6 +13,4 @@ function reverseString(s: string[]): void {
         left++;
         right--;
     }
-
-    console.log(s);
 };
