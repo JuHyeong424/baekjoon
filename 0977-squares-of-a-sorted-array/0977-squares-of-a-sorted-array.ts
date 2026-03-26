@@ -1,20 +1,25 @@
 function sortedSquares(nums: number[]): number[] {
-    const newArray = new Array(nums.length);
-    let p1 = 0; 
-    let p2 = nums.length - 1;
+    const n = nums.length;
+    const result = new Array(n);
+    
+    let left = 0;
+    let right = n - 1; 
+    let pos = n - 1;
 
-    for (let i = newArray.length - 1; i >= 0; i--) {
-        const left = nums[p1] * nums[p1];
-        const right = nums[p2] * nums[p2];
+    while (left <= right) {
+        const leftSquare = nums[left] ** 2;
+        const rightSquare = nums[right] ** 2;
 
-        if (left > right) {
-            newArray[i] = left;
-            p1++;
+        if (leftSquare > rightSquare) {
+            result[pos] = leftSquare;
+            left++;
         } else {
-            newArray[i] = right;
-            p2--;
+            result[pos] = rightSquare;
+            right--;
         }
+        
+        pos--;
     }
 
-    return newArray;
-};
+    return result;
+}
