@@ -33,6 +33,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JuHyeong424/baekjoon/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/JuHyeong424/baekjoon/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/JuHyeong424/baekjoon/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/JuHyeong424/baekjoon/tree/master/0141-linked-list-cycle) |
@@ -43,6 +44,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JuHyeong424/baekjoon/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/JuHyeong424/baekjoon/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/JuHyeong424/baekjoon/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/JuHyeong424/baekjoon/tree/master/0290-word-pattern) |
@@ -73,4 +75,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JuHyeong424/baekjoon/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JuHyeong424/baekjoon/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
