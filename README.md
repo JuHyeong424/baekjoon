@@ -34,6 +34,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | ------- |
 | [0066-plus-one](https://github.com/JuHyeong424/baekjoon/tree/master/0066-plus-one) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/JuHyeong424/baekjoon/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/JuHyeong424/baekjoon/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0290-word-pattern](https://github.com/JuHyeong424/baekjoon/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/JuHyeong424/baekjoon/tree/master/0344-reverse-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JuHyeong424/baekjoon/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/JuHyeong424/baekjoon/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Linked List
 |  |
 | ------- |
@@ -73,6 +75,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [1004-max-consecutive-ones-iii](https://github.com/JuHyeong424/baekjoon/tree/master/1004-max-consecutive-ones-iii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JuHyeong424/baekjoon/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JuHyeong424/baekjoon/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/JuHyeong424/baekjoon/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Counting
 |  |
 | ------- |
