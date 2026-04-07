@@ -15,6 +15,7 @@ var solution = function(isBadVersion: any) {
             const mid = Math.floor((left + right) / 2);
 
             if (isBadVersion(mid) && !isBadVersion(mid - 1)) return mid;
+            if (!isBadVersion(mid) && isBadVersion(mid + 1)) return mid + 1;
 
             if (!isBadVersion(mid)) {
                 left = mid + 1;
