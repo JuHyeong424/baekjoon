@@ -12,7 +12,7 @@ var solution = function(isBadVersion: any) {
         let right = n;
 
         while (true) {
-            const mid = Math.floor((left + right) / 2);
+            const mid = Math.floor(left + (right - left) / 2);
 
             if (isBadVersion(mid) && !isBadVersion(mid - 1)) return mid;
             if (!isBadVersion(mid) && isBadVersion(mid + 1)) return mid + 1;
