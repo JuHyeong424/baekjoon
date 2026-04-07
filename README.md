@@ -90,6 +90,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JuHyeong424/baekjoon/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/JuHyeong424/baekjoon/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/JuHyeong424/baekjoon/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/JuHyeong424/baekjoon/tree/master/1004-max-consecutive-ones-iii) |
 ## String Matching
@@ -100,4 +101,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/JuHyeong424/baekjoon/tree/master/1004-max-consecutive-ones-iii) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/JuHyeong424/baekjoon/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
