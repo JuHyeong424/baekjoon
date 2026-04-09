@@ -34,6 +34,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/JuHyeong424/baekjoon/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/JuHyeong424/baekjoon/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/JuHyeong424/baekjoon/tree/master/0367-valid-perfect-square) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/JuHyeong424/baekjoon/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/JuHyeong424/baekjoon/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -90,6 +91,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/JuHyeong424/baekjoon/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JuHyeong424/baekjoon/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/JuHyeong424/baekjoon/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/JuHyeong424/baekjoon/tree/master/0367-valid-perfect-square) |
