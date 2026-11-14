@@ -11,11 +11,7 @@ function solution(food) {
     }
         
     for (let i = 1; i < food.length; i++) {
-        let current = 0;
-        while (current < resultMap.get(i)) {
-            answer += i;
-            current ++;
-        }
+        answer += String(i).repeat(resultMap.get(i))
     }
 
     answer += '0';
