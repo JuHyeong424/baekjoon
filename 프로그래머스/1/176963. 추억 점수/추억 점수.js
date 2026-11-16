@@ -9,11 +9,12 @@ function solution(name, yearning, photo) {
     
     for (let i = 0; i < photo.length; i++) {
         let sum = 0;
-        for (let inner of photo[i]) {
-            if (nameYearingMap.has(inner)) {
-                sum += nameYearingMap.get(inner);
+        photo[i].forEach((value) => {
+            const yearing  = nameYearingMap.get(value);
+            if (yearing) {
+                sum += yearing;
             }
-        }
+        })
         answer[i] = sum;
     }
     
