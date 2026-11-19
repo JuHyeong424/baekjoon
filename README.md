@@ -137,4 +137,16 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/JuHyeong424/baekjoon/tree/master/2390-removing-stars-from-a-string) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/JuHyeong424/baekjoon/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/JuHyeong424/baekjoon/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/JuHyeong424/baekjoon/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
