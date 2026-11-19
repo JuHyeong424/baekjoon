@@ -4,16 +4,18 @@
  * @return {number}
  */
 var findMaxAverage = function(nums, k) {
-    const array = [];
-    let index = 0;
+    let sum = 0;
 
-    while (index <= nums.length - k) {
-        let sum = 0;
-        for (let i = index; i < index+k; i++) {
-            sum += nums[i];
-        }
-        array.push(sum / k);
-        index++;
+    for (let i = 0; i < k; i++) {
+        sum += nums[i];
     }
-    return Math.max(...array);
+
+    let max = sum;
+
+    for (let i = k; i < nums.length; i++) {
+        sum += nums[i] - nums[i - k];
+        max = Math.max(max, sum);
+    }
+
+    return max / k;
 };
