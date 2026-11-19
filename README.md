@@ -53,6 +53,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0283-move-zeroes](https://github.com/JuHyeong424/baekjoon/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/JuHyeong424/baekjoon/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/JuHyeong424/baekjoon/tree/master/0977-squares-of-a-sorted-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JuHyeong424/baekjoon/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/JuHyeong424/baekjoon/tree/master/0141-linked-list-cycle) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JuHyeong424/baekjoon/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
