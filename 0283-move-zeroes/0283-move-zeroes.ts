@@ -1,10 +1,13 @@
 function moveZeroes(nums: number[]): void {
-    const array = nums.filter((value) => value !== 0);
-    const zero = nums.length - array.length;
+    let index = 0;
 
-    for (let i = 0; i < zero; i++) {
-        array.push(0);
+    for (let i = 0; i < nums.length; i++) {
+        if (nums[i] !== 0) {
+            [nums[index], nums[i]] = [nums[i], nums[index]];
+            index++;
+        }
     }
 
-    nums.splice(0, nums.length, ...array);
+    
+    console.log(nums)
 }
