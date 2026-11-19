@@ -63,6 +63,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0344-reverse-string](https://github.com/JuHyeong424/baekjoon/tree/master/0344-reverse-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JuHyeong424/baekjoon/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/JuHyeong424/baekjoon/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2390-removing-stars-from-a-string](https://github.com/JuHyeong424/baekjoon/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -128,4 +129,12 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/JuHyeong424/baekjoon/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/JuHyeong424/baekjoon/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/JuHyeong424/baekjoon/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
