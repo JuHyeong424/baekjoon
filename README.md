@@ -18,6 +18,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/JuHyeong424/baekjoon/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0977-squares-of-a-sorted-array](https://github.com/JuHyeong424/baekjoon/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/JuHyeong424/baekjoon/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/JuHyeong424/baekjoon/tree/master/1732-find-the-highest-altitude) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JuHyeong424/baekjoon/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
@@ -107,6 +108,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/JuHyeong424/baekjoon/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/JuHyeong424/baekjoon/tree/master/1732-find-the-highest-altitude) |
 ## Interactive
 |  |
 | ------- |
