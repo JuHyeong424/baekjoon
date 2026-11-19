@@ -20,6 +20,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [1004-max-consecutive-ones-iii](https://github.com/JuHyeong424/baekjoon/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/JuHyeong424/baekjoon/tree/master/1732-find-the-highest-altitude) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JuHyeong424/baekjoon/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/JuHyeong424/baekjoon/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0290-word-pattern](https://github.com/JuHyeong424/baekjoon/tree/master/0290-word-pattern) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/JuHyeong424/baekjoon/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JuHyeong424/baekjoon/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/JuHyeong424/baekjoon/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Math
 |  |
 | ------- |
