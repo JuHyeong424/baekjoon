@@ -39,6 +39,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/JuHyeong424/baekjoon/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/JuHyeong424/baekjoon/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/JuHyeong424/baekjoon/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/JuHyeong424/baekjoon/tree/master/0367-valid-perfect-square) |
@@ -128,6 +129,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/JuHyeong424/baekjoon/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/JuHyeong424/baekjoon/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/JuHyeong424/baekjoon/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -204,4 +206,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JuHyeong424/baekjoon/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/JuHyeong424/baekjoon/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
