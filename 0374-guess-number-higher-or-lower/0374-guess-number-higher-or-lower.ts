@@ -14,12 +14,12 @@ function guessNumber(n: number): number {
 
     while (left <= right) {
         let mid = Math.floor(left + (right - left) / 2);
-
-        if (guess(mid) === -1) {
+        const result = guess(mid);
+        if (result === -1) {
             right = mid - 1;
-        } else if (guess(mid) === 1) {
+        } else if (result === 1) {
             left = mid + 1;
-        } else if (guess(mid) === 0) {
+        } else if (result === 0) {
             return mid;
         }
     }
