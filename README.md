@@ -20,6 +20,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0977-squares-of-a-sorted-array](https://github.com/JuHyeong424/baekjoon/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/JuHyeong424/baekjoon/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/JuHyeong424/baekjoon/tree/master/1732-find-the-highest-altitude) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/JuHyeong424/baekjoon/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JuHyeong424/baekjoon/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/JuHyeong424/baekjoon/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
@@ -171,6 +172,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0104-maximum-depth-of-binary-tree](https://github.com/JuHyeong424/baekjoon/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JuHyeong424/baekjoon/tree/master/0199-binary-tree-right-side-view) |
 | [0841-keys-and-rooms](https://github.com/JuHyeong424/baekjoon/tree/master/0841-keys-and-rooms) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/JuHyeong424/baekjoon/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
 |  |
 | ------- |
@@ -189,4 +191,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/JuHyeong424/baekjoon/tree/master/0841-keys-and-rooms) |
+## Matrix
+|  |
+| ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/JuHyeong424/baekjoon/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 <!---LeetCode Topics End-->
