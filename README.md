@@ -44,6 +44,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0367-valid-perfect-square](https://github.com/JuHyeong424/baekjoon/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/JuHyeong424/baekjoon/tree/master/0509-fibonacci-number) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/JuHyeong424/baekjoon/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1137-n-th-tribonacci-number](https://github.com/JuHyeong424/baekjoon/tree/master/1137-n-th-tribonacci-number) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/JuHyeong424/baekjoon/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Two Pointers
 |  |
@@ -128,6 +129,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/JuHyeong424/baekjoon/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/JuHyeong424/baekjoon/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -136,6 +138,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/JuHyeong424/baekjoon/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/JuHyeong424/baekjoon/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
