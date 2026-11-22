@@ -16,6 +16,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0283-move-zeroes](https://github.com/JuHyeong424/baekjoon/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/JuHyeong424/baekjoon/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/JuHyeong424/baekjoon/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/JuHyeong424/baekjoon/tree/master/0724-find-pivot-index) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/JuHyeong424/baekjoon/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0977-squares-of-a-sorted-array](https://github.com/JuHyeong424/baekjoon/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/JuHyeong424/baekjoon/tree/master/1004-max-consecutive-ones-iii) |
@@ -125,6 +126,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/JuHyeong424/baekjoon/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/JuHyeong424/baekjoon/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/JuHyeong424/baekjoon/tree/master/1732-find-the-highest-altitude) |
 ## Interactive
