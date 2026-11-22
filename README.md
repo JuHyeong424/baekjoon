@@ -19,6 +19,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/JuHyeong424/baekjoon/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0977-squares-of-a-sorted-array](https://github.com/JuHyeong424/baekjoon/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/JuHyeong424/baekjoon/tree/master/1004-max-consecutive-ones-iii) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/JuHyeong424/baekjoon/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/JuHyeong424/baekjoon/tree/master/1732-find-the-highest-altitude) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/JuHyeong424/baekjoon/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JuHyeong424/baekjoon/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -34,6 +35,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0219-contains-duplicate-ii](https://github.com/JuHyeong424/baekjoon/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/JuHyeong424/baekjoon/tree/master/0290-word-pattern) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/JuHyeong424/baekjoon/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/JuHyeong424/baekjoon/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JuHyeong424/baekjoon/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/JuHyeong424/baekjoon/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Math
@@ -59,6 +61,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0283-move-zeroes](https://github.com/JuHyeong424/baekjoon/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/JuHyeong424/baekjoon/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/JuHyeong424/baekjoon/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/JuHyeong424/baekjoon/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JuHyeong424/baekjoon/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
@@ -83,6 +86,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0088-merge-sorted-array](https://github.com/JuHyeong424/baekjoon/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/JuHyeong424/baekjoon/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/JuHyeong424/baekjoon/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/JuHyeong424/baekjoon/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JuHyeong424/baekjoon/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Sliding Window
 |  |
