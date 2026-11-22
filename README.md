@@ -17,6 +17,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0643-maximum-average-subarray-i](https://github.com/JuHyeong424/baekjoon/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/JuHyeong424/baekjoon/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/JuHyeong424/baekjoon/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/JuHyeong424/baekjoon/tree/master/0735-asteroid-collision) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/JuHyeong424/baekjoon/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0977-squares-of-a-sorted-array](https://github.com/JuHyeong424/baekjoon/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/JuHyeong424/baekjoon/tree/master/1004-max-consecutive-ones-iii) |
@@ -154,10 +155,12 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/JuHyeong424/baekjoon/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/JuHyeong424/baekjoon/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/JuHyeong424/baekjoon/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/JuHyeong424/baekjoon/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
