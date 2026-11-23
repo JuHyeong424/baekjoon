@@ -85,6 +85,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/JuHyeong424/baekjoon/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/JuHyeong424/baekjoon/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JuHyeong424/baekjoon/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
@@ -147,6 +148,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/JuHyeong424/baekjoon/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/JuHyeong424/baekjoon/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
