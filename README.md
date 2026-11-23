@@ -76,6 +76,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0205-isomorphic-strings](https://github.com/JuHyeong424/baekjoon/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/JuHyeong424/baekjoon/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/JuHyeong424/baekjoon/tree/master/0344-reverse-string) |
+| [0649-dota2-senate](https://github.com/JuHyeong424/baekjoon/tree/master/0649-dota2-senate) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JuHyeong424/baekjoon/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/JuHyeong424/baekjoon/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/JuHyeong424/baekjoon/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -169,6 +170,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/JuHyeong424/baekjoon/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/JuHyeong424/baekjoon/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -203,6 +205,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JuHyeong424/baekjoon/tree/master/0011-container-with-most-water) |
+| [0649-dota2-senate](https://github.com/JuHyeong424/baekjoon/tree/master/0649-dota2-senate) |
 ## Binary Search Tree
 |  |
 | ------- |
