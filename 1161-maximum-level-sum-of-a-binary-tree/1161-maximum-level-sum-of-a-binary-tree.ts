@@ -34,10 +34,6 @@ function maxLevelSum(root: TreeNode | null): number {
         }
         head += 1;
 
-        console.log(max);
-        console.log(sum);
-        console.log(head);
-
         if (max < sum) {
             max = sum;
             maxIndex = head;
