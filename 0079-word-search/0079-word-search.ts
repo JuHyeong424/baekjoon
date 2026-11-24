@@ -10,7 +10,7 @@ function exist(board: string[][], word: string): boolean {
 
         const found = dfs(y - 1, x, index + 1) || dfs(y, x - 1, index + 1) || dfs(y + 1, x, index + 1) || dfs(y, x + 1, index + 1);
 
-        visited[y][x] = 0;
+        if (!found) visited[y][x] = 0;
 
         return found;
     }
