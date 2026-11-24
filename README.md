@@ -192,6 +192,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/JuHyeong424/baekjoon/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JuHyeong424/baekjoon/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JuHyeong424/baekjoon/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/JuHyeong424/baekjoon/tree/master/0450-delete-node-in-a-bst) |
@@ -202,6 +203,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0079-word-search](https://github.com/JuHyeong424/baekjoon/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/JuHyeong424/baekjoon/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JuHyeong424/baekjoon/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JuHyeong424/baekjoon/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/JuHyeong424/baekjoon/tree/master/0547-number-of-provinces) |
@@ -211,6 +213,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/JuHyeong424/baekjoon/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JuHyeong424/baekjoon/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JuHyeong424/baekjoon/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/JuHyeong424/baekjoon/tree/master/0547-number-of-provinces) |
@@ -221,6 +224,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/JuHyeong424/baekjoon/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JuHyeong424/baekjoon/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JuHyeong424/baekjoon/tree/master/0199-binary-tree-right-side-view) |
 | [0450-delete-node-in-a-bst](https://github.com/JuHyeong424/baekjoon/tree/master/0450-delete-node-in-a-bst) |
