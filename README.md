@@ -28,6 +28,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/JuHyeong424/baekjoon/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JuHyeong424/baekjoon/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/JuHyeong424/baekjoon/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/JuHyeong424/baekjoon/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0977-squares-of-a-sorted-array](https://github.com/JuHyeong424/baekjoon/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/JuHyeong424/baekjoon/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JuHyeong424/baekjoon/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/JuHyeong424/baekjoon/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
 | ------- |
@@ -96,6 +98,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0977-squares-of-a-sorted-array](https://github.com/JuHyeong424/baekjoon/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/JuHyeong424/baekjoon/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JuHyeong424/baekjoon/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/JuHyeong424/baekjoon/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sliding Window
 |  |
 | ------- |
@@ -125,6 +128,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0374-guess-number-higher-or-lower](https://github.com/JuHyeong424/baekjoon/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/JuHyeong424/baekjoon/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/JuHyeong424/baekjoon/tree/master/1004-max-consecutive-ones-iii) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/JuHyeong424/baekjoon/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## String Matching
 |  |
 | ------- |
