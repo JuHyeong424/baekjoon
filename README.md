@@ -9,6 +9,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0001-two-sum](https://github.com/JuHyeong424/baekjoon/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/JuHyeong424/baekjoon/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/JuHyeong424/baekjoon/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/JuHyeong424/baekjoon/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/JuHyeong424/baekjoon/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JuHyeong424/baekjoon/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/JuHyeong424/baekjoon/tree/master/0216-combination-sum-iii) |
@@ -78,6 +79,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JuHyeong424/baekjoon/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JuHyeong424/baekjoon/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/JuHyeong424/baekjoon/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/JuHyeong424/baekjoon/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/JuHyeong424/baekjoon/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/JuHyeong424/baekjoon/tree/master/0290-word-pattern) |
@@ -199,6 +201,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/JuHyeong424/baekjoon/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JuHyeong424/baekjoon/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JuHyeong424/baekjoon/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/JuHyeong424/baekjoon/tree/master/0547-number-of-provinces) |
@@ -243,12 +246,14 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/JuHyeong424/baekjoon/tree/master/0079-word-search) |
 | [0994-rotting-oranges](https://github.com/JuHyeong424/baekjoon/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/JuHyeong424/baekjoon/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JuHyeong424/baekjoon/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/JuHyeong424/baekjoon/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/JuHyeong424/baekjoon/tree/master/0216-combination-sum-iii) |
 ## Combinatorics
 |  |
