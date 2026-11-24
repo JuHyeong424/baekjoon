@@ -15,6 +15,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0217-contains-duplicate](https://github.com/JuHyeong424/baekjoon/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JuHyeong424/baekjoon/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/JuHyeong424/baekjoon/tree/master/0283-move-zeroes) |
+| [0624-maximum-distance-in-arrays](https://github.com/JuHyeong424/baekjoon/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/JuHyeong424/baekjoon/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/JuHyeong424/baekjoon/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/JuHyeong424/baekjoon/tree/master/0724-find-pivot-index) |
@@ -227,6 +228,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JuHyeong424/baekjoon/tree/master/0011-container-with-most-water) |
+| [0624-maximum-distance-in-arrays](https://github.com/JuHyeong424/baekjoon/tree/master/0624-maximum-distance-in-arrays) |
 | [0649-dota2-senate](https://github.com/JuHyeong424/baekjoon/tree/master/0649-dota2-senate) |
 ## Binary Search Tree
 |  |
