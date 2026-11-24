@@ -19,6 +19,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0704-binary-search](https://github.com/JuHyeong424/baekjoon/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/JuHyeong424/baekjoon/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/JuHyeong424/baekjoon/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/JuHyeong424/baekjoon/tree/master/0746-min-cost-climbing-stairs) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/JuHyeong424/baekjoon/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0977-squares-of-a-sorted-array](https://github.com/JuHyeong424/baekjoon/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/JuHyeong424/baekjoon/tree/master/0994-rotting-oranges) |
@@ -150,6 +151,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | ------- |
 | [0062-unique-paths](https://github.com/JuHyeong424/baekjoon/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/JuHyeong424/baekjoon/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/JuHyeong424/baekjoon/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/JuHyeong424/baekjoon/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
