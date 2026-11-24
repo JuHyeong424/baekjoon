@@ -19,6 +19,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0283-move-zeroes](https://github.com/JuHyeong424/baekjoon/tree/master/0283-move-zeroes) |
 | [0624-maximum-distance-in-arrays](https://github.com/JuHyeong424/baekjoon/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/JuHyeong424/baekjoon/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/JuHyeong424/baekjoon/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/JuHyeong424/baekjoon/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/JuHyeong424/baekjoon/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/JuHyeong424/baekjoon/tree/master/0733-flood-fill) |
@@ -210,6 +211,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0199-binary-tree-right-side-view](https://github.com/JuHyeong424/baekjoon/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/JuHyeong424/baekjoon/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/JuHyeong424/baekjoon/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/JuHyeong424/baekjoon/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/JuHyeong424/baekjoon/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/JuHyeong424/baekjoon/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/JuHyeong424/baekjoon/tree/master/0872-leaf-similar-trees) |
@@ -222,6 +224,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0199-binary-tree-right-side-view](https://github.com/JuHyeong424/baekjoon/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/JuHyeong424/baekjoon/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/JuHyeong424/baekjoon/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/JuHyeong424/baekjoon/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/JuHyeong424/baekjoon/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/JuHyeong424/baekjoon/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/JuHyeong424/baekjoon/tree/master/0994-rotting-oranges) |
@@ -258,6 +261,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | ------- |
 | [0079-word-search](https://github.com/JuHyeong424/baekjoon/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/JuHyeong424/baekjoon/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/JuHyeong424/baekjoon/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/JuHyeong424/baekjoon/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/JuHyeong424/baekjoon/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/JuHyeong424/baekjoon/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -276,4 +280,5 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | ------- |
 | [0200-number-of-islands](https://github.com/JuHyeong424/baekjoon/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/JuHyeong424/baekjoon/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/JuHyeong424/baekjoon/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
