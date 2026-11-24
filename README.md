@@ -192,6 +192,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JuHyeong424/baekjoon/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JuHyeong424/baekjoon/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/JuHyeong424/baekjoon/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/JuHyeong424/baekjoon/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/JuHyeong424/baekjoon/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JuHyeong424/baekjoon/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -200,6 +201,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JuHyeong424/baekjoon/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JuHyeong424/baekjoon/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/JuHyeong424/baekjoon/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/JuHyeong424/baekjoon/tree/master/0841-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JuHyeong424/baekjoon/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/JuHyeong424/baekjoon/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -225,6 +227,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/JuHyeong424/baekjoon/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/JuHyeong424/baekjoon/tree/master/0841-keys-and-rooms) |
 ## Matrix
 |  |
@@ -238,4 +241,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/JuHyeong424/baekjoon/tree/master/0062-unique-paths) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/JuHyeong424/baekjoon/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
