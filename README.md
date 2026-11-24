@@ -20,6 +20,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0735-asteroid-collision](https://github.com/JuHyeong424/baekjoon/tree/master/0735-asteroid-collision) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/JuHyeong424/baekjoon/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0977-squares-of-a-sorted-array](https://github.com/JuHyeong424/baekjoon/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/JuHyeong424/baekjoon/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/JuHyeong424/baekjoon/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/JuHyeong424/baekjoon/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/JuHyeong424/baekjoon/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -203,6 +204,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0199-binary-tree-right-side-view](https://github.com/JuHyeong424/baekjoon/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/JuHyeong424/baekjoon/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/JuHyeong424/baekjoon/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/JuHyeong424/baekjoon/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JuHyeong424/baekjoon/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/JuHyeong424/baekjoon/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
@@ -232,6 +234,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/JuHyeong424/baekjoon/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/JuHyeong424/baekjoon/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Backtracking
 |  |
