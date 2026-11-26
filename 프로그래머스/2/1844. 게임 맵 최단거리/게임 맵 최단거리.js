@@ -4,7 +4,7 @@ function solution(maps) {
     const dist = Array.from({ length: rows }, () => Array(cols).fill(-1));
     
     const dr = [-1, 1, 0, 0];
-    const dc = [0 , 0, -1, 1];
+    const dc = [0, 0, -1, 1];
     
     const queue = [[0, 0]];
     let head = 0;
@@ -26,5 +26,6 @@ function solution(maps) {
         }
     }
     
-    return dist[rows - 1][cols - 1] === -1 ? -1 : dist[rows - 1][cols - 1] + 1;
+    return dist[rows-1][cols-1] === -1 ? -1 : dist[rows-1][cols-1] + 1;
+    
 }
