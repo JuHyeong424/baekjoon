@@ -88,6 +88,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JuHyeong424/baekjoon/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JuHyeong424/baekjoon/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/JuHyeong424/baekjoon/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JuHyeong424/baekjoon/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/JuHyeong424/baekjoon/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/JuHyeong424/baekjoon/tree/master/0079-word-search) |
@@ -183,6 +184,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/JuHyeong424/baekjoon/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/JuHyeong424/baekjoon/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/JuHyeong424/baekjoon/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -301,4 +303,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/JuHyeong424/baekjoon/tree/master/0797-all-paths-from-source-to-target) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/JuHyeong424/baekjoon/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
