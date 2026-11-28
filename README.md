@@ -18,6 +18,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0216-combination-sum-iii](https://github.com/JuHyeong424/baekjoon/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/JuHyeong424/baekjoon/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/JuHyeong424/baekjoon/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/JuHyeong424/baekjoon/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/JuHyeong424/baekjoon/tree/master/0283-move-zeroes) |
 | [0624-maximum-distance-in-arrays](https://github.com/JuHyeong424/baekjoon/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/JuHyeong424/baekjoon/tree/master/0643-maximum-average-subarray-i) |
@@ -150,6 +151,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/JuHyeong424/baekjoon/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/JuHyeong424/baekjoon/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/JuHyeong424/baekjoon/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/JuHyeong424/baekjoon/tree/master/1732-find-the-highest-altitude) |
