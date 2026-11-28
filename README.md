@@ -9,6 +9,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0001-two-sum](https://github.com/JuHyeong424/baekjoon/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/JuHyeong424/baekjoon/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/JuHyeong424/baekjoon/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/JuHyeong424/baekjoon/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/JuHyeong424/baekjoon/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/JuHyeong424/baekjoon/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/JuHyeong424/baekjoon/tree/master/0088-merge-sorted-array) |
@@ -111,6 +112,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/JuHyeong424/baekjoon/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/JuHyeong424/baekjoon/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/JuHyeong424/baekjoon/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/JuHyeong424/baekjoon/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/JuHyeong424/baekjoon/tree/master/0977-squares-of-a-sorted-array) |
@@ -307,4 +309,8 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JuHyeong424/baekjoon/tree/master/0020-valid-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/JuHyeong424/baekjoon/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
