@@ -12,6 +12,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0066-plus-one](https://github.com/JuHyeong424/baekjoon/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/JuHyeong424/baekjoon/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/JuHyeong424/baekjoon/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/JuHyeong424/baekjoon/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JuHyeong424/baekjoon/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/JuHyeong424/baekjoon/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/JuHyeong424/baekjoon/tree/master/0216-combination-sum-iii) |
@@ -43,6 +44,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 | [0001-two-sum](https://github.com/JuHyeong424/baekjoon/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JuHyeong424/baekjoon/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/JuHyeong424/baekjoon/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/JuHyeong424/baekjoon/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/JuHyeong424/baekjoon/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/JuHyeong424/baekjoon/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/JuHyeong424/baekjoon/tree/master/0217-contains-duplicate) |
@@ -286,6 +288,7 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/JuHyeong424/baekjoon/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/JuHyeong424/baekjoon/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/JuHyeong424/baekjoon/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/JuHyeong424/baekjoon/tree/master/0695-max-area-of-island) |
